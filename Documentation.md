@@ -23,4 +23,4 @@ Rivin vaihto tapahtuu kahdella välilyönnillä
 
 [Centria](https://net.centria.fi/)
 
-![Kuva ohjelmistokehittämisen työkaluista, made by AI.](assets/Ohjelmistokehittäjän työkalupakki suomeksi.png)
+![Kuva ohjelmistokehittämisen työkaluista, made by AI.](assets/työkalupakki.png)
